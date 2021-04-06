@@ -1,5 +1,5 @@
 
-<h2>Ian Feldman</h2><br>
+<h2>Ian Feldman</h2>
 <strong>Legajo:1732626</strong><br>
 <p>Hola, me llamo Ian Feldman, tengo 20 años y es la primera vez que curso esta materia.
 Fui a la ort en el secundario y segui informatica, trabajo hace 2 años como programador.
