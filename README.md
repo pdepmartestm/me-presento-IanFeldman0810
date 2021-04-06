@@ -5,5 +5,3 @@
 Fui a la ort en el secundario y segui informatica, trabajo hace 2 años como programador.
 Soy de capital fdederal, Villa urquiza para ser exacto y nada, no ser me ocurre nada mas para contar jajajaja</p><br>
 
-<img scr="https://raw.githubusercontent.com/pdepmartestm/me-presento-IanFeldman0810/main/foto_presentacion.jpg" style="width:200px">
-![image](https://raw.githubusercontent.com/pdepmartestm/me-presento-IanFeldman0810/main/foto_presentacion.jpg)
